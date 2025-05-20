@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://drive.google.com/drive/u/0/folders/1tWhI0GecXaC-LBoy3APWElMFKz08mf1c
+    url: url: https://content.da.live/jgilliam-magento/aem-boilerplate-commerce/
     type: markup
 
 folders:
