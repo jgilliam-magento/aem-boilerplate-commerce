@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://author-p90256-e1121170.adobeaemcloud.com//jgilliam-magento/aem-boilerplate-commerce/
+    url: https://author-p90256-e1121170.adobeaemcloud.com/jgilliam-magento/aem-boilerplate-commerce/
     type: markup
 
 folders:
