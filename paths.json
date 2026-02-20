@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/aem-boilerplate-commerce/:/",
+    "/content/aem-boilerplate-commerce/configuration:/.helix/config.json",
+    "/content/aem-boilerplate-commerce/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/aem-boilerplate-commerce/"
+  ]
+}
